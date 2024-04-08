@@ -86,3 +86,8 @@ $ sudo apt-get install -y nodejs
 ```
 $ sudo npm install semistandard --global
 ```
+
+
+#### AUTHOR
+
+* UDUAK-OBONG NATHAN UWAH

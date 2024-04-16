@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 This script  takes in the name of a state
@@ -39,6 +38,3 @@ if __name__ == "__main__":
 
     if rows_selected is not None:
         print(", ".join([row[1] for row in rows_selected]))
-
-    db_connect.close()
-    db_cursor.close()
